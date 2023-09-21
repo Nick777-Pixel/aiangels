@@ -4,7 +4,7 @@ A list of active angel investors that invest in AI startups.
 
 [![Face Photo Restorer](./public/og-image.png)](https://aiangels.fund/)
 
-## Powered by
+## Powered by:
 
 This example is powered by the following services:
 
